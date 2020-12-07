@@ -1,0 +1,37 @@
+.hébergement{
+    display: flex;
+    padding:200px;
+}
+
+.article{
+    display: flex;
+    width:900px;
+    height:500px;
+    flex-wrap:wrap;
+    border:2px black solid;
+    background-color:grey;
+}
+
+.article div{
+    width: 200px;
+    height:250px;
+    margin:3px;
+    padding:1px;
+    background-color:white;
+}
+
+.article div img{
+    width:190px;
+    height:100px;
+}
+
+aside{
+    background-color:grey;
+    width:500px;
+    height:500px;
+}
+
+aside img{
+    width:150px;
+    height:120px;
+}
