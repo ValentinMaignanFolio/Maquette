@@ -199,7 +199,9 @@ main .recherches .trier{
     margin-top:-2%;
 }
 
-.trier .filtres .h3{
+.trier .filtres #first{
+    font-size:16px;
+    font-weight:bold;
 }
 
 .filtres ul{

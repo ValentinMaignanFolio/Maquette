@@ -194,7 +194,14 @@ main .recherches .trier{
     margin-top:-2%;
 }
 
+.trier .filtres #first{
+    font-size:16px;
+    font-weight:bold;
+    border:none;
+}
+
 .trier .filtres .h3{
+    width:100%;
 }
 
 .filtres ul{
