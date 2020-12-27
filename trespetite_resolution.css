@@ -442,7 +442,7 @@ main .recherches .trier{
         }
 
         .populaires .hotel p{
-            font-size:14px;
+            font-size:13px;
             line-height:1.2em;
             text-align:left;
             margin-bottom:5px;
@@ -451,13 +451,13 @@ main .recherches .trier{
         .populaires .hotel h3{
             margin-top:10px;
             line-height: 1em;
-            font-size:16px;
+            font-size:14px;
         }
 
         .populaires .hotel .fas{
             font-size:0.8em;
             color:#0065FC;
-            margin-top:24%;
+            margin-top:7%;
             margin-bottom:0;
         }
         
@@ -467,12 +467,13 @@ main .recherches .trier{
         }
 
         .populaires .hotel .photo{
-            height:100%;
-            width:50%;
+            width:100%;
+            height:auto;
         }
         .populaires .hotel .photo img{
-            height:100%;
             width:100%;
+            height:150px;
+            object-fit:cover;
             border-top-left-radius: 15px;
             border-bottom-left-radius: 15px;
         }
